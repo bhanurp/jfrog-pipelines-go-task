@@ -7,6 +7,9 @@ labels:
 input:
   - name: input name
     description: input description
+output:
+  - name: status
+    description: status message of the task
 execution:
   - echo "this is my awesome task"
 hooks:
