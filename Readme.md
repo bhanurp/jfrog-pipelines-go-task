@@ -1,8 +1,6 @@
 # Jfrog-Pipelines-Task
 
-This JFrog pipelines task performs this action.
- 
-this task performs below actions
+This JFrog pipelines task performs the following:
 
 - Does some awesome work
 - Installation of a popular package
